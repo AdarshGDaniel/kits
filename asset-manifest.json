@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kits/static/css/main.2b6d23b4.chunk.css",
+    "main.js": "/kits/static/js/main.1533d541.chunk.js",
+    "main.js.map": "/kits/static/js/main.1533d541.chunk.js.map",
+    "runtime-main.js": "/kits/static/js/runtime-main.68124441.js",
+    "runtime-main.js.map": "/kits/static/js/runtime-main.68124441.js.map",
+    "static/css/2.c1256375.chunk.css": "/kits/static/css/2.c1256375.chunk.css",
+    "static/js/2.192e0097.chunk.js": "/kits/static/js/2.192e0097.chunk.js",
+    "static/js/2.192e0097.chunk.js.map": "/kits/static/js/2.192e0097.chunk.js.map",
+    "index.html": "/kits/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/kits/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.2b6d23b4.chunk.css.map": "/kits/static/css/main.2b6d23b4.chunk.css.map",
+    "static/js/2.192e0097.chunk.js.LICENSE.txt": "/kits/static/js/2.192e0097.chunk.js.LICENSE.txt",
+    "static/media/Karunya Colour.ff41fdab.png": "/kits/static/media/Karunya Colour.ff41fdab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68124441.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.192e0097.chunk.js",
+    "static/css/main.2b6d23b4.chunk.css",
+    "static/js/main.1533d541.chunk.js"
+  ]
+}
