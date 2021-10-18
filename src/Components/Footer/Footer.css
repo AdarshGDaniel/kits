@@ -1,0 +1,17 @@
+.line{
+    margin-top: 50px;
+    width: 100%;
+    text-align: center !important;
+}
+.insideline{
+    display: inline-block;
+    width: 50%;
+    height: 1px;
+    background-color: grey;
+}
+.Footer-text{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+}
